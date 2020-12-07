@@ -6,7 +6,7 @@ I have been working as lecturer and researcher in the areas of computer
 science, informatics and multimedia engineering. I have a Phd, a master and a bachellor degree related to systems engineering and computer science. 
 Most of my academic work lies on the field of constrains constraint satisfaction and constraint programming.
 
-Currently, I am looking for a position as software developer. Check out my [curriculum vitae](https://github.com/anfelbar/anfelbar/blob/main/vitae.pdf).
+
 
 Contactme by email: andrez.fbs@gmail.com
 <!--
