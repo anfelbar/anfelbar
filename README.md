@@ -1,10 +1,11 @@
-### My name is Andrés, yet another software engineer
+### My name is Andrés, yet another software engineer, cloud architect and developer
 
 
-I am a Colombian national, born and raised in the city of Santigo de Cali (yes, I can dance salsa very well). 
-I have been working as lecturer and researcher in the areas of computer
-science, informatics and multimedia engineering. I have a Phd, a master and a bachellor degree related to systems engineering and computer science. 
-Most of my academic work lies on the field of constrains constraint satisfaction and constraint programming.
+Andrés F. Barco is a Colombian national, born and raised in the  city of Santiago de Cali. 
+Andrées is a senior software engineer, full stack developer as well as beginner AWS cloud architect and AWS developer.  
+Currently, Andrés is senior software engineer at Logios Global, an energy transportation planning and fleet management company.
+ Before being software engineer and developer, Andrés was lecturer in the areas of computer science, informatics and multimedia
+  engineering, and was researcher in the areas of constraint programming and product configuration. Andrés is fluent in English and French.  Wanting to contribute in an engineering company, and improve his cloud skills, Andrés is looking for a position as a software engineer with cloud responsabilities. 
 
 
 
