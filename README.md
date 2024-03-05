@@ -2,7 +2,7 @@
 
 
 Andrés F. Barco is a Colombian national, born and raised in the  city of Santiago de Cali. 
-Andrés is a senior software engineer, full stack developer as well as beginner AWS cloud architect and AWS developer.  
+Andrés is a software engineer as well as an AWS cloud architect and AWS developer. 
 Currently, Andrés is software engineer at [Engflow](https://www.engflow.com). 
 
 
